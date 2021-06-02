@@ -2,11 +2,11 @@
   <img src="https://imgur.com/uyG2o2l.png" alt="nlug_matterbot">
 </h1>
 
-`nlug_matterbot` is powered by **matterbridge** - a simple chat bridge. More information on the [project page](https://github.com/42wim/matterbridge).
+`nlug_matterbot` is a bot powered by **matterbridge** - a simple chat bridge - more information on the [project page](https://github.com/42wim/matterbridge). You can find it idling on our Discrod, IRC, and Telegram channels.
 
 ## Config
 
-Replace `<DISCORD_TOKEN>` and `<TELEGRAM_TOKEN>` with the appropriate values, per the [matterbridge documentation](https://github.com/42wim/matterbridge/wiki/Gateway-config-%28basic%29).
+Replace `<DISCORD_TOKEN>` and `<TELEGRAM_TOKEN>` with the appropriate values, per the [matterbridge documentation](https://github.com/42wim/matterbridge/wiki/Gateway-config-%28basic%29):
 
 ```toml
 # nairobilug.toml
